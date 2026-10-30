@@ -1,64 +1,44 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+**[Download my CV (PDF)](/files/Kun_Huang_CV.pdf)** · [Email me](mailto:k-huang@tamu.edu) · [Google Scholar](https://scholar.google.com/citations?user=iRCEYKAAAAAJ&hl=en)
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Academic appointments
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+- **Visiting Assistant Professor**, Department of Statistics and Data Science, Texas A&M University (July 2026–present).
+- **Postdoctoral Research Associate**, Texas A&M University (September 2023–July 2026). Advisors: Huiyan Sang and Xiyu Peng.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Education
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- **Ph.D. in Statistics**, Tsinghua University (2018–2023). Advisor: Lijian Yang.
+- **B.E. in Mechanical Engineering**, minor in Statistics, Tsinghua University (2014–2018).
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Research interests
+
+Bayesian spatial machine learning; statistical learning for heterogeneous and structured data; high-dimensional statistics; spatial causal inference; functional data analysis; spatio-temporal point processes; statistical applications in spatial omics, transportation, environmental science, biomedicine, and AI-enabled systems.
+
+## Selected recognition
+
+- *Annals of Statistics* paper selected for the **NeurIPS 2026 Journal Track**.
+- **NSF Travel Award**, ICSA Applied Statistics Symposium (2025).
+- **First Class Scholarship for Comprehensive Performance**, Tsinghua University (2022).
+- **Peking–Tsinghua Joint Statistics Colloquium Excellent Poster Award** (2021).
+
+## Selected presentations
+
+- **2026 Joint Statistical Meetings**, Boston — Bayesian local spatial feature selection for multimodal omics.
+- **2025 ICSA Applied Statistics Symposium**, Storrs — Bayesian spatial domain partitioning using predictive spanning trees.
+- **2024 Joint Statistical Meetings**, Portland — Spatially adaptive Bayesian function estimation.
+
+## Teaching
+
+- Instructor, **STAT 302: Statistical Methods**, Texas A&M University (Fall 2024, Fall 2026).
+- Teaching Assistant, **Computational Statistics**, Tsinghua University (Fall 2018, Fall 2019).
+
+For the full publication record, see [Publications](/publications/) or the downloadable PDF above.
