@@ -29,7 +29,7 @@ See also my [Google Scholar profile](https://scholar.google.com/citations?user=i
 
 # Submitted and Working Papers
 
-- **Huang, K.**, Peng, X., Sang, H. and Lu, L. [Consistent Bayesian local spatial feature selection with application to spatial multimodal omics](https://arxiv.org/abs/2605.30658). Major revision at *Journal of the American Statistical Association (Theory and Methods)*.
+- **Huang, K.**, Peng, X., Sang, H. and Lu, L. [Consistent Bayesian local spatial feature selection with application to spatial multimodal omics](https://arxiv.org/abs/2605.30658). Major Revision at *Journal of the American Statistical Association (Theory and Methods)*.
 - **Huang, K.**, Yang, S., Li, Y. and Guan, Y. *Interference-aware causal estimation for marked spatio-temporal point processes: assessing the effects of California wildfires on PM2.5*. Major Revision at *Biometrics*.
 - **Huang, K.**, Peng, X. and Sang, H. *A consistent Bayesian adaptive quotient graph framework for graph-informed random partition models*. Submitted to *Annals of Statistics*
 - Ghosh, A., Sang, H. and **Huang, K.** *Consistent spatial clustering: a general framework*. Working paper.
