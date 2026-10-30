@@ -7,6 +7,7 @@ author_profile: true
 
 See also my [Google Scholar profile](https://scholar.google.com/citations?user=iRCEYKAAAAAJ&hl=en). My name appears in **bold** below. † indicates co-first authorship and § indicates co-corresponding authorship.
 
+#Publications
 ## Statistical methodology and theory
 
 1. **Huang, K.** and Sang, H. (2026). [Consistent Bayesian spatial domain partitioning using predictive spanning tree methods](https://doi.org/10.1214/26-AOS2651). *Annals of Statistics*, 54, 2432–2454. **Selected for the NeurIPS 2026 Journal Track.**
@@ -26,9 +27,9 @@ See also my [Google Scholar profile](https://scholar.google.com/citations?user=i
 6. **Huang, K.†**, Chen, D.†, Wang, F.§ and Yang, L.§ (2021). [Prediction of dispositional dialectical thinking from resting-state electroencephalography](https://doi.org/10.1002/brb3.2327). *Brain and Behavior*, 11, e2327.
 7. Zhang, Y., Wang, C., Wu, F., **Huang, K.**, Yang, L. and Ji, L. (2020). [Prediction of working memory ability based on EEG by functional data analysis](https://www.sciencedirect.com/science/article/pii/S0165027019304091). *Journal of Neuroscience Methods*, 333, 108552.
 
-## Current manuscripts
+# Submitted and working papers
 
 - **Huang, K.**, Peng, X., Sang, H. and Lu, L. [Consistent Bayesian local spatial feature selection with application to spatial multimodal omics](https://arxiv.org/abs/2605.30658). Major revision at *Journal of the American Statistical Association (Theory and Methods)*.
-- **Huang, K.**, Peng, X. and Sang, H. *A consistent Bayesian adaptive quotient graph framework for graph-informed random partition models*. Manuscript.
-- **Huang, K.**, Yang, S., Li, Y. and Guan, Y. *Interference-aware causal estimation for marked spatio-temporal point processes: assessing the effects of California wildfires on PM2.5*. Manuscript under review.
+- **Huang, K.**, Yang, S., Li, Y. and Guan, Y. *Interference-aware causal estimation for marked spatio-temporal point processes: assessing the effects of California wildfires on PM2.5*. Major Revision at *Biometrics*.
+- **Huang, K.**, Peng, X. and Sang, H. *A consistent Bayesian adaptive quotient graph framework for graph-informed random partition models*. Manuscript. Submitted to *Annals of Statistics*
 - Ghosh, A., Sang, H. and **Huang, K.** *Consistent spatial clustering: a general framework*. Working paper.
