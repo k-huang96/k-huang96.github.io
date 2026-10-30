@@ -11,7 +11,7 @@ author_profile: true
 - STAT 641: Methods of Stat I - Spring 2027
 
 
-## Teaching assistant at Tsinghua University
+## Teaching Assistant at Tsinghua University
 - Computational Statistics - Fall 2018; Fall 2019.
 - Undergraduate teaching committee support - Spring 2019; assisted with the design and preparation of course materials.
 
