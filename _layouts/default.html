@@ -18,12 +18,11 @@ layout: compress
 
     {{ content }}
 
-    <div class="page__footer">
-      <footer>
-        {% include footer/custom.html %}
-        {% include footer.html %}
-      </footer>
-    </div>
+<div class="page__footer">
+  <footer>
+    © {{ site.time | date: '%Y' }} Kun Huang
+  </footer>
+</div>
 
     {% include scripts.html %}
 
