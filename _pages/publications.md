@@ -28,7 +28,7 @@ See also my [Google Scholar profile](https://scholar.google.com/citations?user=i
 6. **Huang, K.†**, Chen, D.†, Wang, F.§ and Yang, L.§ (2021). [Prediction of dispositional dialectical thinking from resting-state electroencephalography](https://doi.org/10.1002/brb3.2327). *Brain and Behavior*, 11, e2327.
 7. Zhang, Y., Wang, C., Wu, F., **Huang, K.**, Yang, L. and Ji, L. (2020). [Prediction of working memory ability based on EEG by functional data analysis](https://www.sciencedirect.com/science/article/pii/S0165027019304091). *Journal of Neuroscience Methods*, 333, 108552.
 
-# Submitted and working papers
+# Submitted and Working Papers
 
 - **Huang, K.**, Peng, X., Sang, H. and Lu, L. [Consistent Bayesian local spatial feature selection with application to spatial multimodal omics](https://arxiv.org/abs/2605.30658). Major revision at *Journal of the American Statistical Association (Theory and Methods)*.
 - **Huang, K.**, Yang, S., Li, Y. and Guan, Y. *Interference-aware causal estimation for marked spatio-temporal point processes: assessing the effects of California wildfires on PM2.5*. Major Revision at *Biometrics*.
