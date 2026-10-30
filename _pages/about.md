@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a **Visiting Assistant Professor** in the [Department of Statistics and Data Science](https://artsci.tamu.edu/statistics/index.html) at **Texas A&M University**. Previously, I was a Postdoctoral Research Associate at Texas A&M, working with Profs. Huiyan Sang and Xiyu Peng. I earned my Ph.D. in Statistics from Tsinghua University in 2023, where I was advised by Prof. Lijian Yang. 
+I am a **Visiting Assistant Professor** in the [Department of Statistics and Data Science](https://artsci.tamu.edu/statistics/index.html) at **Texas A&M University**. Previously, I was a Postdoctoral Research Associate at Texas A&M, working with Profs. Huiyan Sang and Xiyu Peng. I earned my Ph.D. in Statistics from Tsinghua University in 2023, where I was advised by Prof. Lijian Yang. I received my B.S. from Tsinghua University in 2018.
 
-My research develops statistical methods and theory for complex, heterogeneous, and structured data. My interests include **Bayesian spatial machine learning, spatial causal inference, high-dimensional statistics, functional data analysis, and spatio-temporal point processes**. I am motivated by problems in spatial omics, transportation, environmental science, and biomedical applications.
+My research develops statistical methods and theory for complex, heterogeneous, and structured data. My interests include **Bayesian spatial machine learning, spatial causal inference, large-scale and high-dimensional statistics, functional data analysis, and spatio-temporal point processes**. I am motivated by problems in spatial omics, transportation, environmental science, and biomedical applications.
 
 You can learn more by downloading my [CV](/files/Kun_Huang_CV.pdf).
 
