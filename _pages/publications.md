@@ -7,7 +7,7 @@ author_profile: true
 
 See also my [Google Scholar profile](https://scholar.google.com/citations?user=iRCEYKAAAAAJ&hl=en). My name appears in **bold** below. † indicates co-first authorship and § indicates co-corresponding authorship.
 
-#Publications
+# Publications
 
 ## Statistical methodology and theory
 
