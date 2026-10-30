@@ -8,6 +8,7 @@ author_profile: true
 See also my [Google Scholar profile](https://scholar.google.com/citations?user=iRCEYKAAAAAJ&hl=en). My name appears in **bold** below. † indicates co-first authorship and § indicates co-corresponding authorship.
 
 #Publications
+
 ## Statistical methodology and theory
 
 1. **Huang, K.** and Sang, H. (2026). [Consistent Bayesian spatial domain partitioning using predictive spanning tree methods](https://doi.org/10.1214/26-AOS2651). *Annals of Statistics*, 54, 2432–2454. **Selected for the NeurIPS 2026 Journal Track.**
