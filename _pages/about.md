@@ -12,6 +12,8 @@ I am a **Visiting Assistant Professor** in the [Department of Statistics and Dat
 
 My research develops statistical methods and theory for complex, heterogeneous, and structured data. My interests include **Bayesian spatial machine learning, spatial causal inference, large-scale and high-dimensional statistics, functional data analysis, and spatio-temporal point processes**. I am motivated by problems in spatial omics, transportation, environmental science, and biomedical applications.
 
+**I am currently on the 2026–2027 academic job market, seeking tenure-track faculty positions in statistics, data science, and related fields.**
+
 You can learn more by downloading my [CV](/files/Kun_Huang_CV.pdf).
 
 ## News
